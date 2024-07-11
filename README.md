@@ -13,7 +13,7 @@
 <br> ⚡ Медицинский сервис с функциями сегментации, классификации по изображениям  с использованием U-NET, U-NET++ - https://github.com/DanilaAniva/AI-med-service <br>
 <br> ⚡ Приложение по суммаризации аудио [В процессе оформления] <br>
 
-<br> ⚡ Ноутбуки с использованием Nvidia NeMo для распознавания речи (ASR) с видеороликов [В процессе оформления] <br>
+<br> ⚡ Ноутбуки с использованием Nvidia NeMo для распознавания речи (ASR) с видеороликов  - https://github.com/DanilaAniva/ASR-NeMo-Comparison <br>
 <br> ⚡ Ноутбуки с практикой ML - https://github.com/DanilaAniva/MLPractice <br>
 
 <h3 align="left">Связаться со мной:</h3>
