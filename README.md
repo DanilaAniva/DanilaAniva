@@ -61,7 +61,7 @@ Backend на FastAPI для преобразования голосовых за
 Сервис для анализа рентгеновских снимков (формат DICOM). Реализован полный цикл обучения с использованием **DiceBCELoss** и кастомных шедулеров. В пайплайн встроен **Autoencoder** для предварительной фильтрации аномалий и невалидных изображений.
 
 <p align="center">
-    <img src="assets/med-service.jpg" alt="Med Service Preview" width="600"/>
+    <img src="assets/med-service.jpg?v=2" alt="Med Service Preview" width="600"/>
 </p>
 
 ---
